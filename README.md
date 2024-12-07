@@ -6,6 +6,7 @@ Now each and every pixel's average value is calculated using a predetermined for
 
 ## Demo
 
+https://github.com/user-attachments/assets/ceea6776-9bf2-4443-bb10-bc4ac291c27b
 
 ## Issues
 * If the entire terminal is used to print the ascii art, then a lot of processing power is needed and also the character need to be printed faster than a new frame can be captured.
